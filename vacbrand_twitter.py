@@ -1,6 +1,7 @@
 from pandas import date_range
 import tweepy
 import twitter_credentials as t
+    #twitter_credentials is a separate Python file containing the different keys to be used to authorize mining of Tweets
 import datetime
 
 #Authorization to mine Tweets
