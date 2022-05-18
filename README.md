@@ -9,8 +9,18 @@ This repository contains the files that were used in the ongoing undergraduate r
 - Details on building a query can be found [here](https://developer.twitter.com/en/docs/twitter-api/tweets/search/integrate/build-a-query).
 
 ## Python Files
-
+1. vacbrand_twitter - Program for scraping Tweets using tweepy and the Twitter API
+2. vacbrand_find_string - Program for finding a specific substring from the text
 
 ## Text Files
+1. alltweets_sorted - Tweets from all vaccine brands sorted alphabetically
+2. alltweets_sorted_filtered - Tweets from alltweets_sorted with punctuations removed and all letters in smallcaps
+3. smallcaps_sinovac - Tweets containing "sinovac" with punctuations removed and all letters in smallcaps
+4. smallcaps_pfizer - Tweets containing "pfizer" with punctuations removed and all letters in smallcaps
+5. smallcaps_moderna - Tweets containing "moderna" with punctuations removed and all letters in smallcaps
+6. smallcaps_astrazeneca - Tweets containing "astrazeneca" with punctuations removed and all letters in smallcaps
+7. smallcaps_sputnik - Tweets containing "sputnik" with punctuations removed and all letters in smallcaps
 
 ## CSV Files
+1. vacbrand_tweetnumber - Table containing the number of Tweets collected per vaccine brand and month
+2. alltweets_mostusedwords - Table containing the top 25 most frequently used words in alltweets_sorted.txt
