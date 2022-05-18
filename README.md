@@ -24,3 +24,6 @@ This repository contains the files that were used in the ongoing undergraduate r
 ## CSV Files
 1. vacbrand_tweetnumber - Table containing the number of Tweets collected per vaccine brand and month
 2. alltweets_mostusedwords - Table containing the top 25 most frequently used words in alltweets_sorted.txt
+3. pronoun_frequency - Table containing frequency of all pronouns
+4. ko_collocations - Table containing the top 10 collocations of the singular Tagalog pronoun "ko" ("me" or "my" in English) and their frequencies
+5. officialmentions_frequency - Table containing the Twitter user accounts relevant to the Philippine COVID-19 vaccine brand discourse on Twitter and their frequencies
