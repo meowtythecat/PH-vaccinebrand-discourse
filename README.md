@@ -1,5 +1,5 @@
 # 2021 Philippine Vaccine Brand Discourse on Twitter
-This repository contains the files that were used in the ongoing undergraduate research of Martha Ysaac entitled, "A Corpus-Assisted Critical Discourse Analysis of Tweets on the COVID-19 Vaccine Brand Discourse in the Philippines". Visuals of the data that were presented in the research can be found [here](https://public.tableau.com/app/profile/martha.ysaac). 
+This repository contains the files that were used in the ongoing undergraduate research of Martha Ysaac entitled, "A Corpus-Assisted Critical Discourse Analysis of Tweets on the COVID-19 Vaccine Brand Preference Discourse in the Philippines". Visuals of the data that were presented in the research can be found [here](https://public.tableau.com/app/profile/martha.ysaac). 
 
 ## Information about the Data
 - Academic access was required to extract Tweets from the year 2021. Details on this can be read [here](https://developer.twitter.com/en/products/twitter-api/academic-research/product-details).
